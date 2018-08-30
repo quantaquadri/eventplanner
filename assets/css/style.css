@@ -7438,7 +7438,9 @@ button {
   .main-carousel2 .slick-prev,
   .main-carousel2 .item .reg-form {
     max-width: 360px;
-    margin: 0 auto 30px; }
+    margin: 0 auto 30px; 
+    margin-top: 20px;}
+    
   .main-carousel2 .item .slider-content {
     padding: 0px;
     margin: 0 auto;
